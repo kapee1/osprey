@@ -11,8 +11,8 @@ Huge thanks to the [ebastler](https://github.com/ebastler), author of the [origi
 ### BOM
 | Part    |  Amount   |     |
 | --- | --- | --- |
-|   Osprey-remix PCB         |  1  |     |
-|   Osprey Plate             |  1  |     |
+|   Osprey-remix PCB         |  1  |  1.2mm   |
+|   Osprey Plate             |  1  |  1.2mm   |
 |   Osprey-remix Bottom case |   1  |     |
 |   Osprey-remix Top case    |   1  |     |
 |   M2 x 8mm screws          |  9   |     |

@@ -9,6 +9,8 @@ It uses SuperMini as controller. I used original PCB as template, so outline bar
 ### Thanks
 Huge thanks to the [ebastler](https://github.com/ebastler), author of the [original project](https://github.com/ebastler/osprey) for the inspiration and for the great work he did on the original project and [aroum](https://github.com/aroum) for his kind help and advices. 
 ### BOM
+To build firmware, simply clone this repo: https://github.com/kapee1/osprey-remix-zmk-config
+
 | Part    |  Amount   |     |
 | --- | --- | --- |
 |   Osprey-remix PCB         |  1  |  1.2mm   |

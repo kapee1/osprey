@@ -20,8 +20,8 @@ To build firmware, simply clone this repo: https://github.com/kapee1/osprey-remi
 |   M2 x 8mm screws          |  9   |     |
 |   Threaded M2 inserts      |  9   |     |
 |   SuperMini or Nice!Nano   |  1   |     |
-|   Kailh Hotswap sockets    |  42   |     |
-|   SOD-323 Diodes           |  42  |     |
+|   Kailh Choc Hotswap sockets    |  42   |     |
+|   1N4148WS SOD-323 Diodes   |  42  |     |
 |   MSK-12C01 Switch         |  1   |     |
 |   502030 Battery           |  1   |     |
 |   Round 8mm feets          |  7   |     |
